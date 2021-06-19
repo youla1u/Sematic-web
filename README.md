@@ -49,7 +49,7 @@ Quel que soit le langage choisi, vous ne pourrez utiliser que les fonctionnalit�
 
 == Critères d'évaluation
 
-Votre programme sera testé sur des fichiers volumineux (plusieurs millions de triplets). Quatre requêtes différentes seront testées, valant chacune 5 points (5 points si le résultat obtenu est correct, 0 sinon).
+Votre programme sera testé sur des fichiers volumineux (le fichier gro.txt dans "YOULA_Mohamed_Ntriples.rar"). Quatre requêtes différentes seront testées, valant chacune 5 points (5 points si le résultat obtenu est correct, 0 sinon).
 
 La qualité du code source ne sera pas évaluée, en revanche, un programme trop lent ou consommant trop de ressource pourra donner lieu à une pénalité.
 
