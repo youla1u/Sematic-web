@@ -28,7 +28,7 @@ def parse_file(ch):
     return values
 
 #Fonction pour récupérer chaque éléments (sujet,prédicat,objet ) d'une requête écrite sous forme de triplet.
-#les  differentes conditions (if ..., elif ...) correspondent chacune à une combinason de sujet,prédicat,objet dans une requête donnée.     
+#les  differentes conditions (if ..., elif ...) correspondent chacune à une combinaison du triplet (sujet,prédicat,objet) dans une requête donnée.     
 
 def parse_requet(R):
     if R=="? ? ?":
